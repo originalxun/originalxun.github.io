@@ -28,8 +28,11 @@ categories: 总结
 
 1、aosp
 
-2、http/tcp、ip
+2、计算机网络（【计算机网络微课堂（有字幕无背景音乐版）】https://www.bilibili.com/video/BV1c4411d7jb?p=7&vd_source=24598f83183fc5d5d2da3c9ff5b796cc）
+
+​	tcp/ip协议（http://www.tcpipguide.com/free/t_WhatIsNetworking.htm）
 
 3、计算机操作系统
 
 4、汇编 
+
